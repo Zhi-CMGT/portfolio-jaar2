@@ -7,11 +7,11 @@ const projects = [
         gradient: 'from-purple-500 to-pink-500',
         link: 'https://github.com/Zhi-CMGT/CLE4-Chanty-s-Kitchen.git',
         images: [
-            '/src/assets/chanty1.png',
-            '/src/assets/chanty2.png',
-            '/src/assets/chanty3.png',
-            '/src/assets/chanty4.png',
-            '/src/assets/chanty5.png',
+            '/assets/chanty1.png',
+            '/assets/chanty2.png',
+            '/assets/chanty3.png',
+            '/assets/chanty4.png',
+            '/assets/chanty5.png',
         ]
     },
     {
@@ -22,7 +22,7 @@ const projects = [
         gradient: 'from-blue-500 to-cyan-500',
         link: 'https://github.com/Zhi-CMGT/prg08-eindopdr-agent.git',
         images: [
-            '/src/assets/dragonroute1.png',
+            '/assets/dragonroute1.png',
         ]
     },
     {
@@ -33,8 +33,8 @@ const projects = [
         gradient: 'from-green-500 to-teal-500',
         link: 'https://github.com/Zhi-CMGT/EindopdrachtPO4.git',
         images: [
-            '/src/assets/platformgame1.png',
-            '/src/assets/platformgame2.mp4',
+            '/assets/platformgame1.png',
+            '/assets/platformgame2.mp4',
         ]
     },
     {
@@ -45,10 +45,10 @@ const projects = [
         gradient: 'from-orange-500 to-red-500',
         link: 'https://github.com/martijnsark/CLE3-team3-Auditief-beperkt.git',
         images: [
-            '/src/assets/nolimit1.png',
-            '/src/assets/nolimit2.png',
-            '/src/assets/nolimit3.png',
-            '/src/assets/nolimit4.png',
+            '/assets/nolimit1.png',
+            '/assets/nolimit2.png',
+            '/assets/nolimit3.png',
+            '/assets/nolimit4.png',
         ]
     },
 ];
